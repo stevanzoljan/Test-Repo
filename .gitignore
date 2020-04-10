@@ -1,2 +1,4 @@
 venv33
 .vscode
+*.pyc
+*.ipynb

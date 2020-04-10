@@ -80,3 +80,4 @@ Zen Mode - 1:09:55
 
 # Tracking CHangesajdfndsghhkdufh
 # uhgriurdntgkndrktugnrktgunrtkgurtd
+# git remote add origin https://github.com/stevanzoljan/Test-Repo.git
