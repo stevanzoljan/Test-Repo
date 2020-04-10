@@ -77,3 +77,6 @@ Zen Mode - 1:09:55
 
 
 # Built in Git integration, create the gitignore file 50:50
+
+# Tracking CHangesajdfndsghhkdufh
+# uhgriurdntgkndrktugnrktgunrtkgurtd
